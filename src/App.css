@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.filter-list {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.type-dropdown {
+  margin-bottom: 10px;
+}
